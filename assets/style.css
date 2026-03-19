@@ -91,6 +91,15 @@ footer {
   border-top: 1px solid #ccc;
 }
 
+ul {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+ul li {
+  margin-bottom: 0.7em;
+}
+
 @media (max-width: 600px) {
   :root {
     font-size: 18px;
